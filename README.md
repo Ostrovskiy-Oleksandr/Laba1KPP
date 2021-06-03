@@ -1,1 +1,1 @@
-# Laba1KPP
+# Lab1 Ostrovskiy
